@@ -11,7 +11,7 @@ const CTA = () => {
           </h2>
           <p className="text-xl text-primary-foreground/90 mb-10 leading-relaxed">
             Bergabunglah dengan ribuan petani dan pelaku agribisnis yang telah merasakan manfaat 
-            teknologi AgroSense. Mulai transformasi digital pertanian Anda hari ini.
+            teknologi AlmondSense. Mulai transformasi digital pertanian Anda hari ini.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button size="lg" variant="secondary" className="bg-background hover:bg-background/90 text-foreground shadow-medium group">
