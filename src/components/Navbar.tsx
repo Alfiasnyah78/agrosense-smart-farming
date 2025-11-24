@@ -14,7 +14,7 @@ const Navbar = () => {
             <div className="w-10 h-10 bg-gradient-hero rounded-xl flex items-center justify-center">
               <Leaf className="h-6 w-6 text-primary-foreground" />
             </div>
-            <span className="text-xl font-bold">AgroSense</span>
+            <span className="text-xl font-bold">AlmondSense</span>
           </div>
 
           {/* Desktop Navigation */}

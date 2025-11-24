@@ -10,7 +10,7 @@ const Footer = () => {
               <Leaf className="h-6 w-6 text-primary-foreground" />
             </div>
             <div>
-              <h3 className="text-xl font-bold">AgroSense</h3>
+              <h3 className="text-xl font-bold">AlmondSense</h3>
               <p className="text-sm text-muted-foreground">Data Akurat, Pertanian Lebih Cerdas</p>
             </div>
           </div>
@@ -20,7 +20,7 @@ const Footer = () => {
               Teknologi untuk bumi yang lebih subur
             </p>
             <p className="text-sm text-muted-foreground">
-              © 2024 AgroSense. All rights reserved.
+              © 2024 AlmondSense. All rights reserved.
             </p>
           </div>
         </div>
