@@ -1,0 +1,9 @@
+version: "3.9"
+services:
+  cyber-bazaar:
+    build: .
+    ports:
+      - "3792:3792"
+    environment:
+      - NODE_ENV=production
+    restart: unless-stopped
